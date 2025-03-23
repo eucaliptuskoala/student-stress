@@ -1,0 +1,49 @@
+id,age,gender,gpa,grade,anxiety history,department,scholarship,graduate education plan,smoking,regular medication,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34,score,stress level
+1,22,Male,2.00-2.99,Junior,No,Computer Engineering,50%,Yes,No,No,3,4,4,4,2,5,4,1,2,2,2,1,2,4,4,1,1,3,3,2,2,3,5,2,2,2,2,1,2,1,5,2,2,2,87,Normal
+2,22,Female,2.00-2.99,Senior,Yes,Computer Engineering,50%,Yes,No,No,4,2,3,4,1,5,4,5,5,4,5,4,3,5,4,5,5,5,5,3,4,5,4,4,1,3,3,2,5,4,4,5,4,2,131,High
+3,21,Female,2.00-2.99,Senior,Yes,Computer Engineering,75%,Yes,No,No,4,4,4,3,4,4,5,4,4,3,3,3,3,4,4,2,3,2,3,2,4,4,3,3,2,3,2,1,4,3,5,2,1,3,108,Normal
+4,22,Male,2.00-2.99,Senior,No,Computer Engineering,50%,Yes,Yes,No,2,4,2,3,3,4,5,3,4,3,4,2,4,3,4,3,2,5,2,4,3,5,5,2,2,1,2,1,3,4,2,4,1,2,103,Normal
+5,22,Male,2.00-2.99,Senior,No,Computer Engineering,50%,Yes,Yes,No,3,4,5,2,3,2,5,5,4,5,4,5,5,2,3,3,5,5,3,4,4,5,5,5,4,3,4,3,5,5,5,4,3,3,135,High
+6,22,Female,3.00>,Junior,No,Computer Engineering,50%,Yes,Yes,No,4,5,4,5,1,5,5,3,5,3,5,5,5,5,5,1,3,5,5,3,5,5,5,5,3,5,3,1,4,5,5,5,3,5,141,High
+7,24,Female,3.00>,Senior,No,Computer Engineering,50%,No,No,No,5,4,3,5,1,3,5,4,3,3,5,3,4,3,3,1,3,5,4,4,4,1,4,4,3,1,4,1,2,5,5,5,2,5,117,Normal
+8,23,Female,2.00-2.99,Senior,Yes,Computer Engineering,50%,Yes,No,Levotiron,5,4,3,3,4,3,4,2,5,5,4,3,4,5,3,3,4,5,5,5,5,2,4,3,5,3,4,3,2,4,5,2,1,4,126,High
+9,24,Male,1.00-1.99,Sophomore,No,Computer Engineering,75%,Yes,Yes,No,5,5,3,5,1,5,3,5,5,3,3,3,4,5,4,3,3,3,4,5,5,3,5,4,3,4,3,1,2,3,4,1,1,4,120,Normal
+10,22,Male,1.00-1.99,Senior,No,Computer Engineering,75%,Yes,Yes,No,4,4,4,1,2,1,5,3,5,5,3,3,5,5,4,1,3,5,2,5,5,5,5,2,5,2,5,3,5,4,2,4,2,4,123,Normal
+11,25,Male,2.00-2.99,Senior,No,Biomedical Engineering,100%,No,No,Tegretol CR200,3,5,3,3,2,3,1,1,1,1,2,2,2,5,5,1,1,3,4,1,1,1,3,2,1,1,2,1,2,2,3,2,1,2,73,Low
+12,22,Male,2.00-2.99,Junior,No,Computer Engineering,50%,Yes,No,Ventolin,4,4,3,3,3,2,3,4,3,2,4,3,4,5,5,3,3,5,3,2,3,2,4,2,3,2,3,1,5,2,5,3,1,3,107,Normal
+13,21,Male,2.00-2.99,Sophomore,No,Electrical and electronics engineering,Non-scholarship,Yes,No,Fullsac,1,3,5,2,2,2,5,4,4,4,4,4,5,2,4,5,4,5,3,3,3,5,5,4,2,3,5,1,5,5,3,4,1,4,121,Normal
+14,24,Female,1.00-1.99,Senior,No,Business Administration,Non-scholarship,No,Yes,No,5,5,4,5,3,5,5,3,2,1,2,3,4,5,5,1,2,5,3,2,4,2,4,4,3,1,5,1,5,4,5,4,1,5,118,Normal
+15,24,Female,2.00-2.99,Senior,No,Public Finance,Non-scholarship,No,No,No,3,5,2,4,5,3,2,5,3,2,4,3,2,4,4,2,2,4,5,3,2,1,2,2,1,2,3,1,2,3,4,1,1,2,94,Normal
+16,21,Male,2.00-2.99,Junior,No,Law,25%,Yes,No,No,3,4,4,5,4,1,5,2,5,5,3,4,4,4,5,5,3,5,5,5,3,5,5,4,5,2,3,4,3,3,2,5,1,2,128,High
+17,22,Female,2.00-2.99,Senior,No,Computer Engineering,Non-scholarship,No,No,No,5,5,4,3,3,4,5,5,5,5,5,4,5,4,5,1,5,5,5,4,5,5,5,4,4,3,3,1,4,4,5,1,1,4,136,High
+18,21,Male,3.00>,Sophomore,No,Computer Engineering,Non-scholarship,Yes,No,No,3,4,3,4,1,2,4,2,3,3,3,2,3,3,3,3,1,3,3,1,1,1,4,2,2,1,2,1,3,2,1,3,1,2,80,Normal
+19,24,Male,2.00-2.99,Senior,Yes,Computer Engineering,100%,No,Yes,No,5,4,2,4,4,5,4,3,4,5,4,2,3,5,4,1,3,4,5,5,3,3,5,2,5,3,4,3,2,4,4,5,5,2,126,High
+20,23,Male,2.00-2.99,Senior,No,Computer Engineering,50%,Yes,Yes,No,3,5,3,5,3,1,5,4,3,3,3,4,3,4,4,1,3,5,5,1,3,5,3,3,2,1,2,1,3,2,3,3,2,4,105,Normal
+21,20,Male,2.00-2.99,Junior,No,Electrical and electronics engineering ve Computer Engineering (çap),75%,No,No,No,4,4,3,2,5,5,5,4,5,4,5,3,5,5,3,5,4,5,5,4,5,4,4,3,3,2,4,4,4,5,4,4,5,3,139,High
+22,22,Male,2.00-2.99,Senior,No,Computer Engineering,50%,Yes,No,No,5,3,3,1,4,3,4,3,5,5,4,4,4,3,3,2,4,5,3,5,4,3,3,3,4,5,5,3,5,5,5,3,5,5,131,High
+23,24,Male,2.00-2.99,Senior,No,Computer Engineering,50%,No,Yes,No,5,4,3,3,2,4,3,1,1,1,1,4,3,5,4,2,3,3,4,2,3,4,2,3,3,3,2,3,3,2,3,4,2,3,98,Normal
+24,20,Male,2.00-2.99,Junior,Yes,Computer engineering,Non-scholarship,Yes,No,No,2,4,2,4,3,2,5,5,1,1,5,3,5,2,3,1,3,4,2,3,1,4,4,1,3,2,2,1,4,1,1,2,1,1,88,Normal
+25,24,Female,2.00-2.99,Senior,No,Computer Engineering,75%,Yes,No,No,4,5,4,5,3,3,4,4,2,2,4,4,3,4,5,1,1,4,4,1,3,4,4,4,1,2,2,1,4,3,4,1,1,4,105,Normal
+26,22,Male,2.00-2.99,Senior,No,Computer Engineering,75%,Yes,No,No,2,4,2,2,2,3,2,3,2,1,2,3,3,4,4,2,2,3,2,2,2,4,3,2,3,1,4,1,3,3,3,3,2,3,87,Normal
+27,22,Male,2.00-2.99,Senior,No,Computer Engineering,75%,No,No,No,4,5,3,3,3,2,2,2,3,2,2,2,2,2,3,2,2,2,3,2,2,3,2,2,2,2,2,1,2,3,3,2,1,2,80,Normal
+28,23,Male,1.00-1.99,Junior,No,Computer Engineering,50%,Yes,Yes,No,3,1,4,3,5,5,5,5,4,4,4,4,4,1,3,1,4,4,2,1,4,4,5,3,2,1,3,1,4,3,4,1,1,1,104,Normal
+29,24,Female,2.00-2.99,Senior,No,Computer Engineering,50%,No,No,No,4,5,2,3,2,3,1,2,2,2,3,3,2,4,4,1,1,2,5,2,1,2,3,2,2,3,2,1,2,3,4,2,1,2,83,Normal
+30,23,Female,1.00-1.99,Senior,No,Computer Engineering,50%,No,Yes,No,5,5,3,3,4,5,5,5,4,3,4,4,4,5,5,2,2,3,5,2,4,5,5,4,1,5,4,1,5,5,4,4,4,4,133,High
+31,23,Male,1.00-1.99,Senior,No,Computer Engineering,75%,Yes,Yes,No,3,4,4,2,3,2,3,3,2,4,4,3,4,1,1,1,2,3,3,4,3,5,3,3,3,3,3,1,4,4,1,1,1,2,93,Normal
+32,26,Male,1.00-1.99,Senior,No,Computer Engineering,50%,No,Yes,No,3,4,2,3,2,2,2,1,2,1,2,1,1,5,5,1,1,2,1,1,1,3,4,1,1,1,1,1,3,1,4,1,1,1,66,Low
+33,22,Male,2.00-2.99,Junior,No,Computer Engineering,50%,No,No,No,3,4,2,4,2,3,3,4,4,3,3,3,4,4,3,3,3,3,4,2,3,4,4,3,2,1,2,2,3,2,2,3,1,2,98,Normal
+34,24,Female,1.00-1.99,Senior,No,Architecture,Non-scholarship,No,Yes,Allerset,3,4,2,3,2,2,1,1,1,1,1,1,2,4,5,2,1,1,3,2,1,2,2,1,1,1,1,1,1,2,2,1,1,1,60,Low
+35,21,Male,1.00-1.99,Freshman,No,Accounting and Taxation ,50%,Yes,Yes,No,5,5,3,5,2,5,3,4,1,1,3,5,3,4,5,3,1,3,5,1,2,3,4,3,3,3,3,1,4,5,5,4,1,4,112,Normal
+36,19,Male,2.00-2.99,Freshman,No,Accounting and Taxation,50%,No,No,No,2,4,3,4,1,3,5,3,1,5,3,3,3,5,5,1,3,4,3,2,2,2,4,3,1,1,2,1,5,2,5,4,1,2,98,Normal
+37,19,Male,1.00-1.99,Freshman,No,Accounting and Taxation,70,Yes,No,No,1,5,5,5,3,4,3,3,4,4,4,3,3,3,4,5,4,3,2,3,3,3,3,5,3,3,3,3,5,3,2,3,3,4,117,Normal
+38,20,Female,2.00-2.99,Sophomore,No,Child Development,50%,Yes,No,No,5,5,3,3,3,2,3,4,5,3,5,5,3,2,5,3,3,5,3,3,2,3,3,3,3,3,3,1,5,4,5,4,3,4,119,Normal
+39,20,Female,1.00-1.99,Freshman,No,Accounting and Taxation ,100%,No,No,No,5,3,4,4,1,4,4,3,3,3,3,3,4,5,5,1,3,3,2,2,3,2,4,4,2,2,2,1,1,3,4,1,1,2,97,Normal
+40,21,Male,3.00>,Sophomore,No,Accounting and Taxation,Non-scholarship,Yes,Yes,No,5,5,4,3,3,3,4,4,2,2,3,1,1,2,2,3,3,1,2,4,2,3,5,1,3,2,3,3,1,5,2,3,1,2,93,Normal
+41,20,Female,1.00-1.99,Freshman,No,Accounting and Taxation,75%,No,No,No,4,4,5,4,4,4,4,4,5,3,5,5,5,4,4,1,4,5,5,5,5,5,5,5,4,5,4,2,3,5,4,5,3,5,144,High
+42,25,Female,2.00-2.99,Senior,No,Computer Engineering,Non-scholarship,No,No,No,5,5,3,5,3,4,1,1,2,1,1,1,2,5,5,2,3,2,5,1,2,1,5,1,1,1,2,1,2,1,2,2,1,2,81,Normal
+43,23,Male,1.00-1.99,Senior,No,Computer Engineering,50%,Yes,Yes,Concerta,5,4,3,5,1,5,5,3,2,2,2,1,1,4,5,2,1,4,3,1,1,5,5,2,1,1,1,1,1,1,3,5,1,4,91,Normal
+44,23,Female,3.00>,Senior,No,Tourism management,Non-scholarship,Yes,No,No,4,4,5,3,2,3,3,3,2,3,3,4,3,2,4,1,4,2,4,2,3,4,2,3,2,4,4,1,3,3,3,3,2,3,101,Normal
+45,22,Female,2.00-2.99,Junior,No,Computer Engineering,50%,Yes,Yes,No,2,4,2,4,2,2,3,2,4,4,2,2,2,5,3,1,1,2,4,2,3,1,4,2,1,1,1,1,2,1,5,3,2,1,81,Normal
+46,22,Male,2.00-2.99,Junior,Yes,Computer Engineering,100%,Yes,No,No,4,4,5,3,4,3,3,4,4,3,3,3,4,5,5,2,4,4,4,2,2,3,4,4,2,3,3,2,4,4,5,4,1,3,117,Normal
+47,23,Female,1.00-1.99,Junior,No,Computer Engineering,50%,No,Yes,No,5,5,2,5,2,5,5,1,4,3,2,2,4,5,4,3,5,3,5,4,5,3,5,2,3,2,3,1,4,3,5,2,1,3,116,Normal
+48,23,Female,3.00>,Senior,No,Architecture,50%,Yes,No,No,3,4,2,4,3,2,3,3,2,3,3,2,3,3,3,2,3,3,4,3,3,2,3,2,2,1,2,1,4,3,3,3,2,2,91,Normal
