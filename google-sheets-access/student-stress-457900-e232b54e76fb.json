@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "student-stress-457900",
+  "private_key_id": "e232b54e76fbfd22c3e775c938f09a0132282272",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/jK6LsBj2IEvn\nMqbd6olkNiXpPRaRWha6Xmc+orkjIDn6dIcRiVb9RwWDiEpQY6fS9oobf2gRqVMs\nt/coB9R5fSPqj+T58dB/xFKtskRo40R5SDdGSYpML9gbSl0FbZ5J654NjxiQJZjC\nQXQsBPmdX5zSGEkZ5Qc1emyqMp+EoVFZ5dgm2bc9T0J1JIxp1BYPwk0RcDcYZbav\ntOSyC5v7PY7Nbt4Q+N9aPXUPFUf9ThuScxSPG4VycpC+ZB8IeCBmfGatzgKPngff\n3HGpt+NL3ywbU+Ryrdo+4zv6zM7eHZHjvjS5lDO2kYYvYVOx/rH4nc16Nk2OF69G\nTGrg+l3tAgMBAAECggEAHXnjnkFSBgYASCqmPP4LeG1QtiydXW60kqdWUfAudzZN\nVbo60rsEtOMJ+Syu6uH7AF7J7+NSO22IDBifIvzZeHyGW2EbRk8s24x1gJ8vIcjf\nT56KSvmkG4c9RS3TVLOCqTNl1gZQLFZsxG/YFbIKS2pcMoRkM2ToEBWvxR0XKQx5\nylHHCm7jjlb1Xo3YPfx18eZBlRWn2Ui00HilHfNIYmEK4tezfECstkahJplpSAkE\nLvd9xvi49HnbZXJjNcV79W9jldXv43M6gJ+s0Jm0WKd/B0pO45ZRTSBSAzeZuDbJ\nCCEFLFHWyNLsmZeX1AhkIFH5hXM7iosvgoJiHfpqDQKBgQDlucXgEeV+ZeTnZJjx\nj8+93Z0+rYbKwtEPZU+3kpCgixpRepF9y0OmdHyQ6Ld4Yfs4AiSwdNTtKJnlxlOU\nmTquVRH1GUiipI/8XPAdvNoz++r1QH472adRjblQuP1ddJsTerFb5KlmvCo6x/Ac\n0XS9rtbXgRExaWU/7FFTbeKVrwKBgQDVdSKMkwON7HIn9AINirli+ZvkmWPt3x+u\nMMvXLqZn9tdIfuQ4sw8iVQd/01iCOWjDu3e5GknYjmn4bxjGIlvjXCNeB1IUhGXm\nqEJEiRE91e+aNtGKsqIKZOtK5Cb+rhxKZnWtHIabQkyN30079qSaiXAzmGlxy6Fz\nmTC2a/9JIwKBgBwzMtwvtjlO7suM6M12duz6wGvKR2qqgZlfOWryffiHOuLXpfaI\nNjS/xe7P8n2/oWQdtz1GCkFWo5W2Q9pQ+Qgff0XUJbt5cgdrrTopTavl99DFavmT\n3VtAh4gmPUv0nXjFrfH23uiynoh6tLoE6EzEorDvshmbs4cmTlFsgs0XAoGAOyoV\nYmtZP9w6o/JRI1nBGrrex9TwSr1edZSW21TV0NktQK3TKhgPaM+ynW6CCM5KyH3M\nqGSt9TU8EB0S+9AIMhOWxfg3evJboDwg6ggn3EDRAaiSGeR7X3Are32ThWHS+5g8\no7fVY3FT8LrlGGq7ow3XKKXlDCKJ5JWgV9/FSYsCgYEAqQBt4T/f615hgHyJqM/j\n6wHaVQofvPTLG45wgzFsB1apiEMglo3Ju+EE1bQwioGqL32JyyvddH2mcKt8RBYd\nSrGC49h4JVxI4zSqX/G2CgqYrz8NMis0hQtYO7FJVmWtq5Ir95F6UNSFqatdzfYM\n2eV441D5jaUXHgJw9lrkupc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "studentstresssheetsaccess@student-stress-457900.iam.gserviceaccount.com",
+  "client_id": "117638634738459470787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/studentstresssheetsaccess%40student-stress-457900.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
