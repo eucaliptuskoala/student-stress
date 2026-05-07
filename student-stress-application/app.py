@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 from idata import IData
@@ -7,7 +8,7 @@ def main():
     st.set_page_config(layout="centered", initial_sidebar_state="collapsed")
 
     st.title("Student Stress Classification")
-    st.image('img/stress.png')
+    st.image(os.path.join(os.path.dirname(__file__), 'img', 'stress.png'))
     st.markdown("""
     This application which uses Artificial Intelligence to classify student stress levels based on various features. " \
     "All used models were trained on the set of data, collected from students of Fontys University of Applied Sciences."
